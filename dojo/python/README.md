@@ -11,6 +11,7 @@ Python was designed in '91 by Guido van Rossum [^history].
 * Python Tutorial [Link to official site][py tutorial].
 * Fluent Python: Clear, Concise, and Effective Programming -- Luciano Ramalho (book). [Link to Jupyter (book)][jupyter fluentpy].
 * Learn Python -- Full Course for Beginners. [Link to YouTube Tutorial -- 4.5h][YT learn py].
+* [ProjectPro Python Machine Learning][ProjectPro] Solved end-to-end Machine Learning Projects in Python
 * [DataCamp (paid)][datacamp] (courses)
   * [Python Programmer][dc py programmer] (develop skills to wrangle data and build tools for data analysis -- 13 courses, 52 hours), contains:
     * [Introduction to Python][dc py introduction]
@@ -48,6 +49,7 @@ Python was designed in '91 by Guido van Rossum [^history].
 [python data science]: https://jakevdp.github.io/PythonDataScienceHandbook/
 [tech lib LPTHW]: https://drive.google.com/drive/folders/1pzgMl3bVA0h-TCMSE4s9x76Q6SKFsRrw
 
+[ProjectPro]: https://www.dezyre.com/projects/data-science-projects/machine-learning-projects-in-python
 [datacamp]: https://www.datacamp.com/
 [dc py introduction]: https://www.datacamp.com/courses/intro-to-python-for-data-science
 [dc py programmer]: https://www.datacamp.com/tracks/python-programmer
